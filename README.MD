@@ -7,7 +7,7 @@ With a PMO background, I'm driven by my love for software engineering.
 I have keen interest for compiler and languages and would love to work more closely on those subjects in the near futur.
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lbelus/)
 
 
 <h2>📖 Language</h2>
