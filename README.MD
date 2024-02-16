@@ -4,7 +4,7 @@ Creating scripts and coding has always helped me automate my tasks, enabling me 
 With a PMO background, I'm driven by my love for software engineering.
 </p>
 <p>
-I have keen interest for compiler and languages and would love to work more closely on those subjects in the near futur.
+I have a general interest for compiler and languages and would love to work more closely on those subjects in the near futur.
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lbelus/)
