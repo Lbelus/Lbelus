@@ -1,4 +1,4 @@
-<h1>Hello, I'm Lorris 👋</h1>
+<h1>Hello, I'm Lorris</h1>
 <p>
 Creating scripts and coding has always helped me automate my tasks, enabling me to take on new responsibilities. During one of my previous experiences, I noticed a significant lack of IT knowledge at the management level, which impacted team performance and productivity. In a spirit of improvement, I decided to deepen my knowledge by enrolling in a development school based on the 42 formula and projects. 
 </p>
