@@ -2,9 +2,7 @@
 <p>
 Creating scripts and coding has always helped me automate my tasks, enabling me to take on new responsibilities. During one of my previous experiences, I noticed a significant lack of IT knowledge at the management level, which impacted team performance and productivity. In a spirit of improvement, I decided to deepen my knowledge by enrolling in a development school based on the 42 formula and projects. 
 </p>
-<p>
-I am currently working on rust and solana to create a web3 app and an unofficial linkedin API in C based of a custom curl but I have a general interest for compiler and languages and would love to work more closely on those subjects in the near futur.
-</p>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lbelus/)
 
